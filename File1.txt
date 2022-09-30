@@ -1,6 +1,6 @@
 Hi Chetan!
-This is a File1 edited.
+This is a prevoiously edited.
 
 
 Hello again!!
-Now, this is a push operation test.
+Now, this text is written for reset operation!
